@@ -175,3 +175,4 @@ public class CacheClient {
         stringRedisTemplate.delete(key);
     }
 }
+啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦
